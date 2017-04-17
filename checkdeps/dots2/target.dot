@@ -1,0 +1,6 @@
+digraph G
+{
+  d -> c
+  c -> b [label="NEFU investor"]
+  b -> a [label="NEFU investor"]
+}
